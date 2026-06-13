@@ -64,18 +64,6 @@ An article explaining early nervous system development, including neural plate f
 
 Created by members of the **Korea International School Jeju Medical Club**.
 
-## Suggested Repository Name
-
-```text
-KISJ-Medical-Club-Medicine-Neuroscience
-```
-
-## Suggested Repository Description
-
-```text
-A neuroscience-themed medical research magazine created by Korea International School Jeju Medical Club members.
-```
-
 ## Disclaimer
 
 This magazine is intended for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Readers should consult qualified healthcare professionals for medical concerns.

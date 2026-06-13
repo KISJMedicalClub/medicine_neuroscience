@@ -1,4 +1,4 @@
-# Medicine: Special Issue on Neuroscience
+# Medicine: Neuroscience
 
 A student-led medical research magazine created by members of the Korea International School Jeju (KISJ) Medical Club.
 

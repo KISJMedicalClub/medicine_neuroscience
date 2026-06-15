@@ -1,6 +1,9 @@
 # Medicine: Neuroscience
 
 A student-led medical research magazine created by members of the Korea International School Jeju (KISJ) Medical Club.
+<p align="center">
+  <img src="Research_Neuroscience.PNG" width="45%">
+</p>
 
 The complete magazine can be viewed or downloaded as a PDF file: 📄 [Medicine_Neuroscience.pdf](Medicine_Neuroscience.pdf)
 
@@ -12,9 +15,6 @@ The magazine introduces readers to neuroscience through a combination of student
 
 The following sample pages show the brochure’s heavy-ion cancer radiotherapy section, including background information, treatment comparisons, and the use of heavy-ion therapy in Korea.
 
-<p align="center">
-  <img src="Research_Neuroscience.PNG" width="45%">
-</p>
 
 ## Project Purpose
 

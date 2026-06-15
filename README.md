@@ -2,7 +2,7 @@
 
 A student-led medical research magazine created by members of the Korea International School Jeju (KISJ) Medical Club.
 
-The complete magazine can be viewed or downloaded as a PDF file.📄 [Medicine_Neuroscience.pdf](Medicine_Neuroscience.pdf)
+The complete magazine can be viewed or downloaded as a PDF file: 📄 [Medicine_Neuroscience.pdf](Medicine_Neuroscience.pdf)
 
 ## Overview
 

@@ -10,6 +10,12 @@ The complete magazine can be viewed or downloaded as a PDF file: 📄 [Medicine_
 
 The magazine introduces readers to neuroscience through a combination of student-written research summaries, explanatory articles, and visual science communication. Topics range from ADHD treatment and neurotransmitters to dyslexia, neuromorphic computing, and fetal brain development.
 
+The following sample pages show the brochure’s heavy-ion cancer radiotherapy section, including background information, treatment comparisons, and the use of heavy-ion therapy in Korea.
+
+<p align="center">
+  <img src="Medicine_Neuroscience.PNG" width="45%">
+</p>
+
 ## Project Purpose
 
 The purpose of this project is to promote medical literacy and research engagement within the KISJ community. By publishing a themed magazine, club members practice scientific reading, writing, explanation, and design while helping readers explore complex medical ideas in an approachable format.

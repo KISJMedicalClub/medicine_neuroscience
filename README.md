@@ -2,7 +2,8 @@
 
 A student-led medical research magazine created by members of the Korea International School Jeju (KISJ) Medical Club.
 
-The complete brochure can be viewed or downloaded as a PDF file.📄 [Medical Club Brochure.pdf](Medical%20Club%20Brochure.pdf)
+The complete magazine can be viewed or downloaded as a PDF file.📄 [Medicine_Neuroscience.pdf](Medicine_Neuroscience.pdf)
+
 ## Overview
 
 **Medicine** is a medical and research magazine produced by KISJ Medical Club to make advanced medical topics more accessible to high school students and the broader school community. This volume is a **Special Issue on Neuroscience**, featuring articles that explain current research, neurological concepts, and emerging technologies related to the brain and nervous system.
